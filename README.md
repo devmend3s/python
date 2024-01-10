@@ -9,7 +9,7 @@
 </details>
 
 <details>
-  <summary>Data Analysis/summary>
+  <summary>Data Analysis</summary>
   <p>Librarys Pandas and Numpy</p>
 </details>
 
